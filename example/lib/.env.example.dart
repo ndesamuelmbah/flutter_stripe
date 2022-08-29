@@ -1,1 +1,2 @@
-const stripePublishableKey =  "<ADD_YOUR_KEY_HERE>";
+const stripePublishableKey =
+    "pk_live_51LZMQsL2wBhKvLCq4vG2IGsTreVXGveRCzBjme3JxBmtyGmYeXoK6Ul9lnhpI4MmvQM4GzZoZrgIIMAIbA9jWxUd00fZF4CCKm";

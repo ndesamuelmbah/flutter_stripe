@@ -5,8 +5,8 @@ import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart' as http;
 import 'package:integration_test/integration_test.dart';
+import 'package:stripe_example/.env.example.dart';
 
-import '.env.dart';
 import 'ip.dart';
 
 void main() {

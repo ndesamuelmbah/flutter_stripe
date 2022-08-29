@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'package:stripe_example/.env.dart';
+import 'package:stripe_example/.env.example.dart';
 import 'package:stripe_example/widgets/example_scaffold.dart';
 import '../../config.dart';
 import 'platforms/stripe_checkout.dart'
@@ -10,7 +10,6 @@ import 'package:flutter/material.dart';
 
 import 'package:stripe_checkout/stripe_checkout.dart';
 import 'package:http/http.dart' as http;
-
 
 class CheckoutScreenExample extends StatefulWidget {
   CheckoutScreenExample({
